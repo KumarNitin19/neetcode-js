@@ -13,13 +13,22 @@ This repository contains my JavaScript solutions for the **NeetCode 150 DSA Road
 
 ## Roadmap Progress
 - [x] Arrays & Hashing
-- [ ] Two Pointers
-- [ ] Sliding Window
-- [ ] Stack
+- [x] Two Pointers
+- [x] Stack
 - [ ] Binary Search
+- [ ] Sliding Window
+- [ ] Linked List
 - [ ] Trees
+- [ ] Tries
+- [ ] Heap/Priority Queue
+- [ ] Backtracking
 - [ ] Graphs
-- [ ] DP
+- [ ] 1D DP
+- [ ] Intervals
+- [ ] Greedy Advanced Graphs
+- [ ] 2D DP
+- [ ] Bit Manipulation
+- [ ] Maths & Geometry
 
 ## Disclaimer
 These solutions are for **learning and reference purposes only**.
